@@ -21,7 +21,13 @@ const database = {
             id: 2,
             name: "Ivan T'Kill",
             power: "Nightmare"
+        },
+        {
+            id: 3,
+            name: "Girl Boss",
+            power: "Gate Keep"
         }
+
     ]
 }
 
